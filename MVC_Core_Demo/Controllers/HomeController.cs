@@ -23,6 +23,12 @@ namespace MVC_Core_Demo.Controllers
             return View();
         }
 
+        public IActionResult Louie()
+        {
+
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
